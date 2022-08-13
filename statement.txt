@@ -1,0 +1,9 @@
+Problem statement Modules seek to solve 
+
+1 - The size of the file - having all resources and outputs in a single file means many lines of code not easy to manage
+
+2 - Control
+
+3 - No DRY - issues of code reusability
+
+4 - Teams
